@@ -1,5 +1,6 @@
 # footer
-This is customized footer with github link
+This is customized footer with github link.
+
 site is live at https://justme-vivek.github.io/footer/
 
 
